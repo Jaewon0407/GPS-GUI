@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.title-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+}
+
+.title {
+    font-family: Roboto, 'Arial';
+    font-weight: 500;
+    font-size: 50px;
+}
+
+.coordinate-container {
+    display: flex;
+    flex-direction: row;
+    padding-left: 50px;
+    padding-top: 50px;
+}
